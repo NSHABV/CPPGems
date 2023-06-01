@@ -1,7 +1,5 @@
 // CPPGems.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
-// BadproG.com
 #include <GL\glew.h>
 #include <GL\freeglut.h>
 #include "windowClass.h"
